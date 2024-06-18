@@ -1,0 +1,6 @@
+@TrilhaNetApi_HostAddress = http://localhost:5115
+
+GET {{TrilhaNetApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
